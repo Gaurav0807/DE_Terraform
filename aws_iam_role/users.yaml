@@ -1,0 +1,8 @@
+users:
+  - username: raju
+    roles: [AmazonEC2FullAccess]
+  - username: sonu
+    roles: [AmazonS3ReadOnlyAccess]
+  - username: anu
+    roles: [AmazonEC2FullAccess,AmazonS3ReadOnlyAccess]
+  
